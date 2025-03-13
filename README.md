@@ -25,9 +25,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter/)
 
-#### 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=react)
-
+ 
 ---
 💡 _Always curious, always building!_ 🚀
